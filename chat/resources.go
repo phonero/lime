@@ -1,7 +1,7 @@
 package chat
 
 import (
-	"github.com/takenet/lime-go"
+	"github.com/phonero/lime-go"
 	"net/url"
 	"time"
 )
