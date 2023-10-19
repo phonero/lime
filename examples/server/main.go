@@ -4,7 +4,7 @@ import (
 	"context"
 	"crypto/tls"
 	"fmt"
-	"github.com/phonero/lime-go"
+	"github.com/phonero/lime"
 	"log"
 	"net"
 	"os"

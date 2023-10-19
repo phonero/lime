@@ -1,6 +1,6 @@
 package chat
 
-import "github.com/phonero/lime-go"
+import "github.com/phonero/lime"
 
 // RegisterChatDocuments register all documents from the chat package in the Lime's document registry.
 func RegisterChatDocuments() {

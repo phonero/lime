@@ -1,4 +1,4 @@
-module github.com/phonero/lime-go
+module github.com/phonero/lime
 
 go 1.21
 
