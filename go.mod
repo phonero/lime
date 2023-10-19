@@ -8,7 +8,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	go.uber.org/goleak v1.1.12
 	go.uber.org/multierr v1.11.0
-	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
+	golang.org/x/crypto v0.1.0
 	golang.org/x/sync v0.4.0
 )
 
