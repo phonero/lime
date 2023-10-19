@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/phonero/lime-go"
+	"github.com/phonero/lime"
 	"go.uber.org/multierr"
 	"log"
 	"math/rand"
